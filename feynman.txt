@@ -1,0 +1,22 @@
+JavaScript Definitions
+
+1. Variables are memory placeholders for objects. Using the 'var' keyword to
+indicate that we want to store some information we then give the variable a name.
+Then using the '=' assignment operator, we assign the value to be stored. Values
+can be strings enclosed in single or double quotations marks, numbers, null,
+functions, or Boolean true or false.
+
+2. Strings are literal typed object such as words. Strings are always surrounded
+by quotation marks, single or double.
+
+3. Functions are blocks of code that can be run, or called many times. The code
+blocks include the instructions for JavaScript to perform. Variable assigned inside
+the function are available only within the function.
+
+ 4. If Statements are code blocks used to check for truth or falseness, comparing
+ 2 or more things and then running a code block if the condition is true. If the
+ conditions are false, the code block is skipped and not run.
+
+5. Boolean Values are binary in nature and can be represented as true or false,
+0 or 1, on or off, + voltage or 0 voltage, or + or - voltage. Boolean values
+are returned after checking the conditions of an If Statement.
